@@ -6,10 +6,10 @@ Deploy a secure Linux virtual machine in Azure for cybersecurity monitoring and 
 ## VM Specifications
 
 ### Basic Configuration
-- **Operating System:** Ubuntu 22.04 LTS (Latest stable release)
+- **Operating System:** Ubuntu 22.04 LTS
 - **VM Size:** Standard_B1s (1 vCPU, 1 GB RAM)
-- **Storage:** 30 GB Premium SSD (encrypted)
-- **Region:** East US (or closest to your location)
+- **Storage:** 30 GB Standard SSD 
+- **Region:** East US 
 
 ### Network Configuration
 - **Resource Group:** `rg-cybersec-lab`
@@ -34,7 +34,7 @@ Deploy a secure Linux virtual machine in Azure for cybersecurity monitoring and 
 - Custom SSH port (will change from 22 during hardening)
 
 **Management Features:**
-- Auto-shutdown: 8 PM daily (cost optimization)
+- Auto-shutdown: 7 PM daily 
 - Boot diagnostics: Enabled
 - Azure monitoring: Enabled
 
@@ -43,8 +43,7 @@ Deploy a secure Linux virtual machine in Azure for cybersecurity monitoring and 
 ### Initial Security Posture
 1. **Network Isolation:** VM deployed in dedicated subnet with restrictive NSG
 2. **Access Control:** SSH key authentication only, limited source IPs
-3. **Encryption:** Disk encryption enabled at deployment
-4. **Monitoring:** Basic Azure monitoring and logging enabled
+3. **Monitoring:** Basic Azure monitoring and logging enabled
 
 ### Post-Deployment Hardening Goals
 1. **System Updates:** All packages updated to latest versions
