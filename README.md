@@ -42,15 +42,6 @@ Enhanced monitoring dashboard with security-focused metrics, automated alerting,
 - API integration and data processing
 - Secure coding practices
 
-## Repository Structure
-
-```
-cybersecurityProject/
-├── vm-deployment/          # Secure cloud VM with SIEM integration
-├── docs/                   # Project documentation and diagrams
-└── scripts/               # Reusable automation scripts
-```
-
 ## Learning Approach
 
 Each project follows a structured methodology:
