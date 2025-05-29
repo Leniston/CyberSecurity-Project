@@ -13,7 +13,7 @@ As a cybersecurity student, I've created these projects to demonstrate practical
 **Technologies:** Azure, ELK Stack, Linux Hardening  
 A comprehensive project featuring secure VM deployment in Azure with integrated SIEM monitoring, custom alerting, and automated threat detection.
 
-### 📊 [Network Monitoring Dashboard](./monitoring-dashboard/) 
+### 📊 [Network Monitoring Dashboard](https://github.com/Leniston/Monitoring-Dashboard) 
 **Status:** Planning  
 **Technologies:** PHP, MySQL, JavaScript, Network APIs  
 Enhanced monitoring dashboard with security-focused metrics, automated alerting, and incident response workflows.
