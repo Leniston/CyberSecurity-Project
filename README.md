@@ -8,7 +8,7 @@ As a cybersecurity student, I've created these projects to demonstrate practical
 
 ## Current Projects
 
-### 🖥️ [Secure Cloud Infrastructure & SIEM Implementation](./vm-deployment/)
+### 🖥️ [Secure Cloud Infrastructure & SIEM Implementation](https://github.com/Leniston/CyberSecurity-Project/tree/main/VM-Deployment)
 **Status:** In Progress  
 **Technologies:** Azure, ELK Stack, Linux Hardening  
 A comprehensive project featuring secure VM deployment in Azure with integrated SIEM monitoring, custom alerting, and automated threat detection.
